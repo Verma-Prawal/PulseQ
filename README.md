@@ -1,6 +1,6 @@
-# KafkaPulse — Real-Time Feedback Processing System
+# PulseQ — Real-Time Feedback Processing System
 
-KafkaPulse is a Kafka-powered microservice-based application that collects, categorizes, and processes user feedback in real time. It features a beautiful frontend interface and a robust backend architecture suitable for demonstrating Kafka and microservice expertise.
+PulseQ is a Kafka-powered microservice-based application that collects, categorizes, and processes user feedback in real time. It features a beautiful frontend interface and a robust backend architecture suitable for demonstrating Kafka and microservice expertise.
 
 ---
 
