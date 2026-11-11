@@ -144,3 +144,14 @@ Feel free to fork, contribute, or suggest features via Issues or PRs!
 ## 🚗 License
 
 [MIT License](LICENSE)
+
+
+Commit History from Previous Development (before I shifted the project to new GitHub Account) -
+
+feat: implement Kafka producer for feedback events
+feat: add category-based feedback routing
+feat: implement support feedback consumer
+feat: add WebSocket-based admin dashboard
+feat: integrate centralized logging
+test: add feedback API integration tests
+docs: add system architecture and setup guide
